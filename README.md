@@ -17,7 +17,7 @@ antes de iniciar cabe resaltar que Anschool es un prototipo funcional, mas aun f
 5. Hacerla una plataforma de aprendizaje para múltiples materias. 
 
  Instalación y Despliegue (Pasos a Seguir)
-
+ (recuerde que tiene que estar en cd anschool)
 El proyecto está diseñado para levantarse en minutos y garantizar disponibilidad continua:
 (decargar el repositorio)
 1. Instalar dependencias:
