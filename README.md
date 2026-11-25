@@ -1,13 +1,25 @@
 Anschool · by A.N.A.H.I.
 
-Les presento Anschool, una aplicación web progresiva (PWA) dedicada a transformar la enseñanza de las matemáticas, desarrollada por Francisco Almaraz Ocelo y el equipo de A.N.A.H.I.
+Les presento Anschool, una aplicación web progresiva (PWA) dedicada a transformar la enseñanza de las matemáticas, desarrollada por Francisco Almaraz Ocelo, Diego Mendoza Burgos y Irvin Torres Jarquin, el equipo de A.N.A.H.I.
 
 Hoy en día, la mayoría de las herramientas de inteligencia artificial resuelven la tarea por el estudiante, eliminando el proceso de aprendizaje. Anschool nace para resolver ese problema mediante un enfoque pedagógico socrático: nuestra IA nunca entrega la respuesta final; en su lugar, analiza el razonamiento del alumno y lo guía paso a paso para que construya su propia solución. Todo esto bajo una interfaz moderna en tonos rosa y negro, construida con Next.js 14, React 18, TypeScript, Tailwind CSS, Three.js y KaTeX.
+
+Anschool esta diseñada para los estudiantes con rezago en matemáticas, con una forma nueva de aprendizaje donde la IA no te da las respuestas correctas si no te explica y te ayuda a que tu razones y entiendas los temas matemáticos de una forma personalizada y que puedas avanzar en tu aprendizaje a tu ritmo, por eso mismo proponemos el sistema offline-fallback para que el usuario pueda repasar sus apuntes y ejercicios aunque no tengan internet
+
+video demo: https://drive.google.com/drive/folders/1CTLeOVa8ry39KLwV_HTnyforRUh2rq6S
+
+antes de iniciar cabe resaltar que Anschool es un prototipo funcional, mas aun falta  muchas cosas por hacer por ejmeplo:
+
+1. Mejorar la experiencia del usuario.
+2. Conectar con una base de datos.
+3. Hacer una app para dispositivos moviles.
+4. Mejorar la interfaz.
+5. Hacerla una plataforma de aprendizaje para múltiples materias. 
 
  Instalación y Despliegue (Pasos a Seguir)
 
 El proyecto está diseñado para levantarse en minutos y garantizar disponibilidad continua:
-
+(decargar el repositorio)
 1. Instalar dependencias:
 npm install
 2. Configurar variables de entorno:
